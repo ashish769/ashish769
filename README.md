@@ -1,6 +1,6 @@
 # Hi there, I'm Ashish Raj Poudel 👋
 
-🚀 **AI Enthusiast | Python & Django Developer | Web Designer**
+🚀 **AI Intrested | Python & Django Developer | Web Designer**
 
 Welcome to my GitHub profile! I’m passionate about building innovative web solutions, exploring AI, and contributing to open-source projects.
 
@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I’m passionate about building innovative web sol
 
 ### 🌟 About Me
 - 💻 **Tech Stack:** C, C++, JavaScript, Python, Django, React.
-- 📚 **Currently Learning:** Advanced AI and React projects.
-- 🌱 Working on [Quick License](https://github.com/ashishrajpoudel) – an innovative QR-based license system.
+- 📚 **Currently Learning:** BAsics AI and React projects.
 - 🌍 Visit my personal website: [www.ashishrajpoudel.com.np](http://www.ashishrajpoudel.com.np)
 - 🎯 Goal: Deliver impactful software solutions to improve people's lives.
 
@@ -45,13 +44,13 @@ Here are some of my key projects:
 ### 🏆 Highlights
 - 🌟 passionate Open Source Contributor.
 - 💡 Experience in Python & Django development.
-- ✨ Passionate about building clean and scalable web applications.
+- ✨ Passionate about building clean and scalable web applications .
 
 ---
 
 
 ### 🎉 Fun Fact:
-- I can swith tecck stack twice in a day!fluctuation.....
+- I can switch tech stack twice in a day!fluctuation.....
 
 ---
 
