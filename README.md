@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m passionate about building innovative web sol
 
 ### 🌟 About Me
 - 💻 **Tech Stack:** C, C++, JavaScript, Python, Django, React.
-- 📚 **Currently Learning:** BAsics AI and React projects.
+- 📚 **Currently Learning:** Computer Engineering.
 - 🌍 Visit my personal website: [www.ashishrajpoudel.com.np](http://www.ashishrajpoudel.com.np)
 - 🎯 Goal: Deliver impactful software solutions to improve people's lives.
 
